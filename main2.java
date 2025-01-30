@@ -1,3 +1,5 @@
+// 672115045 Virawit Kongthong OOP Lab7 Question 2
+
 public class main2 {
     public static void main(String[] args) {
         LibraryItem[] libraryItems = new LibraryItem[3];

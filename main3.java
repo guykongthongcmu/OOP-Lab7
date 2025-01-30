@@ -1,3 +1,5 @@
+// 672115045 Virawit Kongthong OOP Lab7 Question 3
+
 public class main3 {
     public static void main(String[] args) {
         UIControl[] control = new UIControl[3];
